@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="aqowf_book_back" size="50.000000 82.361115" />
-    <ImageTarget name="aqowf_book" size="50.000000 82.240440" />
-    <ImageTarget name="Astronaut_Image" size="50.000000 86.425781" />
-  </Tracking>
-</QCARConfig>
