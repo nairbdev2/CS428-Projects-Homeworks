@@ -11,7 +11,7 @@ The reason why we used google drive was because github has a file limit restrict
 * Install the Vuforia Engine AR package
 * Go to Unity and click on the 'Assets' then 'Import Package' then 'Custom Package' then select a file with .unitypackage
   * Import the CS428_Project_1_Updated_DB.unitypackage 
-  * Import [CS428_P1_Alpha_Package.unitypackage](https://drive.google.com/file/d/1mxxuFeIU4HRXQWGXy_vVV_SIbBvnNOsF/view?usp=sharing) While importing this package note that this may take 4-5 mins to import.
+  * Import [CS428_P1_Alpha_Package.unitypackage](https://drive.google.com/file/d/1mxxuFeIU4HRXQWGXy_vVV_SIbBvnNOsF/view?usp=sharing) NOTE: While importing this package note that this may take 4-5 mins to import.
 * Go to Scenes and double-click on 'CS428 P1 Alpha'
 * Use the front or back book cover to see the Augmented Reality
 
