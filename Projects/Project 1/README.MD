@@ -12,7 +12,8 @@ The reason why we used google drive was because github has a file limit restrict
 * Go to Unity and click on the 'Assets' then 'Import Package' then 'Custom Package' then select a file with .unitypackage
   * Import the CS428_Project_1_Updated_DB.unitypackage 
   * Import [CS428 Project_1_Alpha_Package.unitypackage](https://drive.google.com/file/d/1-c99Mipn_Vnq9uomvOXMOFYI-fQHdSzn/view?usp=sharing)
-* Go to Scenes_1 and look for CS428 
+* Go to Scenes and double-click on 'CS428 P1 Alpha'
+* Use the front or back book cover to see the Augmented Reality
 
 ## Alpha Preview Video
 [Video](https://youtu.be/G-XyPLei2HI)
