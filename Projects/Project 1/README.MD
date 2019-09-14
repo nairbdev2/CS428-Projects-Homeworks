@@ -1,5 +1,5 @@
 ## Note
-The reason why we had the models in .unitypackage is that github has a file size upload limitation.
+The reason why we used google drive was because github has a file limit restriction
 
 ## Pre-Requisites
 * Android SDK module
