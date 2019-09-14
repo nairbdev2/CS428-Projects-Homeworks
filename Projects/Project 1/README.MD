@@ -15,7 +15,7 @@ The reason why we used google drive was because github has a file limit restrict
 * Go to Scenes_1 and look for CS428 
 
 ## Alpha Preview Video
-[Video(https://youtu.be/G-XyPLei2HI)
+[Video](https://youtu.be/G-XyPLei2HI)
 
 ## Resource Links Used
 
