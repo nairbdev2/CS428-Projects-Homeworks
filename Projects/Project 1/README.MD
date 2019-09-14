@@ -9,14 +9,13 @@ The reason why we had the models in .unitypackage is that github has a file size
 * First create a blank 3D template Unity Project 
 * Go to 'Window' Tab in the unity project and click on 'Package Manager'
 * Install the Vuforia Engine AR package
-* Drag the following folders into the Unity Assets folder:
-  * Audio, Materials, Scenes, scripts
-* Go back to Unity and click on the 'Assets' then 'Import Package' then 'Custom Package' then select a file with .unitypackage
-  * Import the CS428_Project_1_Updated_DB.unitypackage
-  * Import Models_CS428 Project.unitypackage located in the 'Models' folder
-* Go back to Unity and double click 
-  
+* Go to Unity and click on the 'Assets' then 'Import Package' then 'Custom Package' then select a file with .unitypackage
+  * Import the CS428_Project_1_Updated_DB.unitypackage 
+  * Import [CS428 Project_1_Alpha_Package.unitypackage](https://drive.google.com/file/d/1-c99Mipn_Vnq9uomvOXMOFYI-fQHdSzn/view?usp=sharing)
+* Go to Scenes_1 and look for CS428 
 
+## Alpha Preview Video
+[Video(https://youtu.be/G-XyPLei2HI)
 
 ## Resource Links Used
 
