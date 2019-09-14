@@ -1,0 +1,9 @@
+newmtl Family_03_M_S1
+Ka 0.100000 0.100000 0.402000
+Kd 0.470600 0.784300 1.000000
+Ks 0.564700 0.749000 0.996100
+illum 0
+map_Ka 2217_bullet_plane.jpg
+map_Kd 2217_bullet_plane.jpg
+map_Ks 2217_bullet_plane.jpg
+
