@@ -1,5 +1,5 @@
 ## Note
-The reason why we used google drive was because github has a file limit restriction
+Had to change .obj files to .fbx files
 
 ## Pre-Requisites
 * Android SDK module
