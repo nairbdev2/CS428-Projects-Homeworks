@@ -9,14 +9,15 @@ public class BackVirtualButtons_Script : MonoBehaviour, IVirtualButtonEventHandl
     VirtualButtonBehaviour[] virtualButtonBehaviours;
 
     //Variables
-    string virButton;
+    //string virButton;
     //Three Buttons
-    public GameObject BookReviewButton;
-    public GameObject VideoReviewButton;
-    public GameObject MapButton;
+    //public GameObject BookReviewButton;
+    //public GameObject VideoReviewButton;
+    //public GameObject MapButton;
 
     //Three Objects to Hide
     public GameObject Map_GroupObj;
+    
     
 
 
@@ -24,16 +25,16 @@ public class BackVirtualButtons_Script : MonoBehaviour, IVirtualButtonEventHandl
     void Start()
     {
         //Register all the buttons
-        //virtualButtonBehaviours = GetComponentsInChildren<VirtualButtonBehaviour>();
+        virtualButtonBehaviours = GetComponentsInChildren<VirtualButtonBehaviour>();
 
-        //for (int i = 0; i < virtualButtonBehaviours.Length; i++)
-        //{
-        //    virtualButtonBehaviours[i].RegisterEventHandler(this);
-        //}
+        for (int i = 0; i < virtualButtonBehaviours.Length; i++)
+        {
+            virtualButtonBehaviours[i].RegisterEventHandler(this);
+        }
 
-        BookReviewButton.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
-        VideoReviewButton.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
-        MapButton.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
+        //BookReviewButton.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
+        //VideoReviewButton.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
+        //MapButton.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
 
 
     }
@@ -46,19 +47,20 @@ public class BackVirtualButtons_Script : MonoBehaviour, IVirtualButtonEventHandl
 
     public void OnButtonPressed(VirtualButtonBehaviour vb)
     {
-        virButton = vb.VirtualButtonName;
+        string virButton = vb.ToString();
+        string[] stringSplit = virButton.Split(' ');
 
-        if (virButton.Equals("BookReviewButton"))
+        if (stringSplit[0].Equals("BookReviewButton"))
         {
             Map_GroupObj.SetActive(false);
             Debug.Log("BookReviewButton was pressed.");
         }
-        else if (virButton.Equals("VideoReviewButton"))
+        else if (stringSplit[0].Equals("VideoReviewButton"))
         {
             Map_GroupObj.SetActive(false);
             Debug.Log("VideoReviewButton was pressed.");
         }
-        else if (virButton.Equals("MapButton"))
+        else if (stringSplit[0].Equals("ShowMapButton"))
         {
             Map_GroupObj.SetActive(true);
             Debug.Log("MapButton was pressed.");
@@ -69,7 +71,7 @@ public class BackVirtualButtons_Script : MonoBehaviour, IVirtualButtonEventHandl
         
 
         Debug.Log("Button Pressed");
-        Debug.Log("What is this: " + virButton);
+        //Debug.Log("What is this: " + virButton);
     }
 
     public void OnButtonReleased(VirtualButtonBehaviour vb)
