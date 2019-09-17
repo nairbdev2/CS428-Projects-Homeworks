@@ -6,7 +6,22 @@ ModelImporter:
   - first:
       74: -1622220175941883228
     second: star|starAction
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star
+    second: {fileID: 2100000, guid: 813f0c03df3ea41e5ae6b6934973ac40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glassesFrames
+    second: {fileID: 2100000, guid: eae7ef01b531844a893d056beccd68b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lens
+    second: {fileID: 2100000, guid: 8db28e775c049427f8e08d9c4a668eaa, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
