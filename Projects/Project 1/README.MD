@@ -37,6 +37,7 @@ Had to change .obj files to .fbx files
 * Memorial statue ww1: https://sketchfab.com/3d-models/war-memorial-pomnik-padlym-fd238d7b1be746d0b537c9223b396b31
 * WW1 AT grenade: https://sketchfab.com/3d-models/world-war-1-anti-tank-granade-33543ee3b994462a8b2bca9b67b2dc0a
 * My Custom Model : Flashlight
+* Battlefield 1 War Sounds Link: https://www.youtube.com/watch?v=MTmVsT3KoWk
 
 # Yushen Li
 * Plane Background Sound: https://www.youtube.com/watch?v=KWpNPG3ozq8
