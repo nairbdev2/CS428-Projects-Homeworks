@@ -18,6 +18,9 @@ Had to change .obj files to .fbx files
 ## Alpha Preview Video
 [Video](https://youtu.be/G-XyPLei2HI)
 
+## Final Project Video
+[Video](https://youtu.be/d4sr44ogV9Y)
+
 ## Resource Links Used
 
 # Nathan He
