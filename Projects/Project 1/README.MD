@@ -30,8 +30,8 @@ Had to change .obj files to .fbx files
 * Image used: https://www.google.com/search?tbm=isch&sxsrf=ACYBGNSQfZrzJYSTeR1jTGT69orfbeMPNw%3A1568393278156&source=hp&biw=1294&bih=699&ei=Psh7Xb21B8mc-gSn167gBg&q=world+war+1+german+flag&oq=world+&gs_l=img.3.0.35i39j0l9.922.3345..4297...1.0..4.445.3033.1j5j3j1j3......0....1..gws-wiz-img.....0.l9tAsOjQm_k#imgrc=ifjwEwKtlg_sSM:
 * Dessert Background Sound Link: https://www.youtube.com/watch?v=rWSWHkljU0c
 * Book Reviewers: 
- * Duane: https://www.goodreads.com/user/show/24389390-duane
- * Joey: https://www.goodreads.com/user/show/4639825-joey-woolfardis
+  * Duane: https://www.goodreads.com/user/show/24389390-duane
+  * Joey: https://www.goodreads.com/user/show/4639825-joey-woolfardis
 
 # Brian DeVilla
 * German Medic: https://sketchfab.com/3d-models/german-medic-ww1-c1916-21ddd1e224f2434ab84ab60c9476a03f
@@ -43,8 +43,8 @@ Had to change .obj files to .fbx files
 * Battlefield 1 War Sounds Link: https://www.youtube.com/watch?v=MTmVsT3KoWk
 * Review Star: https://sketchfab.com/3d-models/star-b092c1d27d954c8e9c051299ef74038d
 * Book Reviewers: 
- * Darwin8u: https://www.goodreads.com/user/show/2294090-darwin8u
- * Kim: https://www.goodreads.com/user/show/2452488-kim
+  * Darwin8u: https://www.goodreads.com/user/show/2294090-darwin8u
+  * Kim: https://www.goodreads.com/user/show/2452488-kim
 
 # Yushen Li
 * Plane Background Sound: https://www.youtube.com/watch?v=KWpNPG3ozq8
@@ -55,6 +55,6 @@ Had to change .obj files to .fbx files
 * Train Model: https://sketchfab.com/3d-models/wwi-trench-locomotive-4579db0196964cca89d322bfb930f67d
 * My Custom Model: Sun
 * Book Reviewers: 
- * Perry: https://www.goodreads.com/user/show/6354112-perry
- * Diane S: https://www.goodreads.com/user/show/4159922-diane-s
+  * Perry: https://www.goodreads.com/user/show/6354112-perry
+  * Diane S: https://www.goodreads.com/user/show/4159922-diane-s
 
