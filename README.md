@@ -1,2 +1,2 @@
-# CS428-Projects-Homeworks
-Contains our CS428 Projects and Homeworks
+# Vuforia-AR-Demo
+Utilize the Vuforia Library on the Unity Engine
